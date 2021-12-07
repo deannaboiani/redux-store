@@ -16,7 +16,7 @@ An interactive e-commerce store where users can login and create a cart full of 
 ## Installation
 Visit the app [here!](https://salty-gorge-04119.herokuapp.com/)
 ## Screenshot
-
+<img width="1383" alt="Screen Shot 2021-12-06 at 5 47 02 PM" src="https://user-images.githubusercontent.com/89818334/144951421-5ad571fc-d65f-42c2-9f11-98485fe78467.png">
 ## Contributing
 To contribute, contact me below!
 ## License
